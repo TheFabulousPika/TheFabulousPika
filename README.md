@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- Sample of my writing: [English](https://github.com/TheFabulousPika/everybodys-golf-coins-and-gems-locator/blob/master/README.md) / [Japanese](https://github.com/TheFabulousPika/everybodys-golf-coins-and-gems-locator/blob/master/README.jp.md)
 <!--
 **TheFabulousPika/TheFabulousPika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
